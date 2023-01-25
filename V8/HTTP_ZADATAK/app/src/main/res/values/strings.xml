@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HTTP_ZADATAK</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="see_temperature">SEE TEMPERATURE</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="pritisak">Pritisak:</string>
+    <string name="vlaznost_vazduha">Vlaznost vazduha:</string>
+    <string name="opis">Opis:</string>
+</resources>

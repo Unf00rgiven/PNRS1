@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HttpExample</string>
+    <string name="get_all">GET ALL</string>
+    <string name="get_specific">GET SPECIFIC</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="username">Username:</string>
+    <string name="username1">username</string>
+    <string name="password">Password:</string>
+    <string name="password1">password</string>
+    <string name="start">START</string>
+    <string name="statistic">STATISTIC</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password">enter password</string>
+    <string name="email">Email</string>
+    <string name="enter_email">enter email</string>
+    <string name="refresh">REFRESH</string>
+</resources>

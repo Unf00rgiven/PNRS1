@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LayoutActivity</string>
+    <string name="textview">textview</string>
+    <string name="d1">D1</string>
+    <string name="d2">D2</string>
+    <string name="d3">D3</string>
+    <string name="d4">D4</string>
+    <string name="d5">D5</string>
+    <string name="d6">D6</string>
+    <string name="edittext">edittext</string>
+    <string name="d7">D7</string>
+</resources>
